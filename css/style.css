@@ -1,7 +1,7 @@
-@import url(http://fonts.googleapis.com/css?family=Play);
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
 @import url(http://fonts.googleapis.com/css?family=Monoton);
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
-@import url(http://fonts.googleapis.com/css?family=Righteous);
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 
 /* CSS초기화 */
 * { padding: 0; margin: 0; }
@@ -74,10 +74,10 @@ header {
 
 /* 문구 스타일 */
 .txtBox {width:400px;height:410px;position:fixed;top: 244px;right:180px;}
-.txt { position:absolute; top:250px; right:110px; font-size:28px; font-family:play; color:#bbb; letter-spacing:-2px;
+.txt { position:absolute; top:250px; right:110px; font-size:28px; font-family:Play; color:#bbb; letter-spacing:-2px;
 }
 .txt b { font:bold 34px arial; color:#fab4b4;    margin-left:30px;}
-.tit { position:absolute; top:0px; right:0px; font-size:100px; color:#ce2923; font-family: 'Righteous', cursive; letter-spacing:-1px;
+.tit { position:absolute; top:0px; right:0px; font-size:100px; color:#ce2923; font-family: Righteous; letter-spacing:-1px;
 }
 .tit em { font-size:30px; font-family:play; color:#bbb; }
 
